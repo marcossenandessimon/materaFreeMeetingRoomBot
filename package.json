@@ -1,0 +1,25 @@
+{
+  "name": "materameetingroombot",
+  "version": "1.0.0",
+  "main": "meetingRoomBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/markuela/materameetingroombot.git"
+  },
+  "author": "marcos.simon",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/markuela/materameetingroombot#readme",
+  "dependencies": {
+    "google-auth-library": "^0.9.8",
+    "googleapis": "^13.0.0",
+    "node-telegram-bot-api": "^0.23.3",
+    "q": "^1.4.1",
+    "redis": "^2.6.2",
+    "slackbots": "^0.5.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
